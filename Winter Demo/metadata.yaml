@@ -1,0 +1,31 @@
+name: 'Winter Demo'
+tracks:
+  - number: 1
+    name: 'Oh Brother'
+    file: '01 Oh Brother.mp3'
+  - number: 2
+    name: 'Quincy Adams'
+    file: '02 quincy adams.mp3'
+  - number: 3
+    name: 'LSD'
+    file: '03 LSD 1.mp3'
+  - number: 4
+    name: 'A Major'
+    file: '04 A Major.mp3'
+  - number: 5
+    name: 'Theme Song'
+    file: '05 theme song.mp3'
+  - number: 6
+    name: 'As The Trees Shed'
+    file: '06 As the Trees Shed.mp3'
+  - number: 7
+    name: 'Banned Joe'
+    file: '07 Banjo 1.mp3'
+  - number: 8
+    name: 'Pandbro'
+    file: '08 pandbro.mp3'
+  - number: 9
+    name: 'Brony Cheatani'
+    file: 'brony cheatani 1.mp3'
+description: 'Winter 2005'
+artwork: 'artwork.png'
